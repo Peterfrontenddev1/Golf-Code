@@ -6,7 +6,6 @@ Your function will be passed par and strokes arguments.
  Return the correct string according to this table which lists the strokes in order of priority; 
 top (highest) to bottom (lowest):
 Strokes	Return
-1	"Hole-in-one!"
 
 Strokes	Return
 1	"Hole-in-one!"
