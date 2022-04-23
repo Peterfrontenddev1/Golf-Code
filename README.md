@@ -7,3 +7,12 @@ Your function will be passed par and strokes arguments.
 top (highest) to bottom (lowest):
 Strokes	Return
 1	"Hole-in-one!"
+
+Strokes	Return
+1	"Hole-in-one!"
+<= par - 2	"Eagle"
+par - 1	"Birdie"
+par	"Par"
+par + 1	"Bogey"
+par + 2	"Double Bogey"
+>= par + 3	"Go Home!"
