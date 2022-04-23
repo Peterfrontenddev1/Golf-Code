@@ -36,4 +36,5 @@ par and strokes will always be numeric and positive.
 golfScore(4, 1) should return the string Hole-in-one!
 
 golfScore(4, 2) should return the string Eagle
+
 golfScore(5, 2) should return the string Eagle
