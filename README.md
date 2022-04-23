@@ -17,3 +17,4 @@ par + 1	"Bogey"
 par + 2	"Double Bogey"
 >= par + 3	"Go Home!"
 par and strokes will always be numeric and positive. 
+ We have added an array of all the names for your convenience.
