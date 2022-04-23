@@ -16,6 +16,7 @@ top (highest) to bottom (lowest):
 Strokes	Return
 
 1	"Hole-in-one!"
+
 <= par - 2	"Eagle"
 par - 1	"Birdie"
 par	"Par"
